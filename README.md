@@ -20,10 +20,10 @@ Whether you are brushing up on calculus or tackling advanced physics, this proje
 
 ### 🚀 Topics Covered
 <ul>
-  <li><strong>Integrals:</strong> Ranging from easy trigonometric definite integrals to hard problems utilizing Feynman's Technique[cite: 10, 65].</li>
-  <li><strong>Differentials:</strong> Step-by-step breakdowns of First-Order Linear ODEs, Bernoulli Equations, and First-Order PDEs[cite: 99, 116, 137].</li>
-  <li><strong>Derivatives:</strong> Analytical solutions covering step function derivatives, logarithmic differentiation, and indeterminate limits[cite: 161, 171, 185].</li>
-  <li><strong>Engineering & Physics:</strong> Practical problems exploring magnetic fields of current loops, kinematics of pure rolling, and the photoelectric effect[cite: 208, 221, 248].</li>
+  <li><strong>Integrals:</strong> Ranging from easy trigonometric definite integrals to hard problems utilizing Feynman's Technique.</li>
+  <li><strong>Differentials:</strong> Step-by-step breakdowns of First-Order Linear ODEs, Bernoulli Equations, and First-Order PDEs.</li>
+  <li><strong>Derivatives:</strong> Analytical solutions covering step function derivatives, logarithmic differentiation, and indeterminate limits.</li>
+  <li><strong>Engineering & Physics:</strong> Practical problems exploring magnetic fields of current loops, kinematics of pure rolling, and the photoelectric effect.</li>
 </ul>
 
 <br>

@@ -14,7 +14,7 @@
 
 ## 📖 About The Project
 
-This repository houses the **Daily Problem Solutions Booklet** [cite: 2] authored by **Johar M. Ashfaque**[cite: 1]. It serves as the official companion to the daily mathematics and physics challenges posted on [DailyIntegral.com](https://dailyintegral.com/). 
+This repository houses the **Daily Problem Solutions Booklet** authored by **Johar M. Ashfaque**. It serves as the official companion to the daily mathematics and physics challenges posted on [DailyIntegral.com](https://dailyintegral.com/). 
 
 Whether you are brushing up on calculus or tackling advanced physics, this project provides rigorous, analytical solutions to expand your problem-solving toolkit.
 

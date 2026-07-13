@@ -28,37 +28,6 @@ Whether you are brushing up on calculus or tackling advanced physics, this proje
 
 <br>
 
-## 📂 Repository Structure
-
-<table>
-  <thead>
-    <tr>
-      <th>Directory</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>/Integrals/</code></td>
-      <td>Solutions for Easy, Medium, and Hard integrals[cite: 6].</td>
-    </tr>
-    <tr>
-      <td><code>/Differentials/</code></td>
-      <td>Solutions for various differential equations[cite: 6].</td>
-    </tr>
-    <tr>
-      <td><code>/Derivatives/</code></td>
-      <td>Calculus derivatives categorized by difficulty[cite: 6].</td>
-    </tr>
-    <tr>
-      <td><code>/Engineering/</code></td>
-      <td>Mechanics, Quantum, and Magnetic Field applications[cite: 6].</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
 ## 🛠️ Built With
 
 <p>
